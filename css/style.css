@@ -12,7 +12,7 @@
 
 img {
     display: block;
-    max-width: 100%;
+    /* max-width: 100%; */
 }
 
 html {
@@ -190,7 +190,7 @@ html {
 
 
 /* Main Visual */
-.main-visual {
+/* .main-visual {
     height: calc(100vh - 60px);
     background: url(../img/mv-bg@2x.jpg) no-repeat center center / cover;
     display: flex;
@@ -202,8 +202,8 @@ html {
   .main-visual__img {
     transform: translateY(-5%);
     width: min(80vw, 400px);
-  }
-  
+  } */
+/*   
   @media screen and (min-width: 768px) {
     .main-visual {
       height: 100vh;
@@ -213,7 +213,7 @@ html {
       height: 80vh;
       max-height: 700px;
       /* for iPad */
-      width: auto;
+      /* width: auto;
       transform: translateY(0);
     }
 }
@@ -258,11 +258,11 @@ html {
 .mv-text__eng,
 .mv-text__jp {
   font-size: max(3.2vw, 2rem);
-}
+}*/
 
 
 /* Backnumbers */
-.backnumbers {
+/* .backnumbers {
     background-color: #f8f8f8;
   }
 
@@ -360,5 +360,5 @@ html {
   .bn-list li {
     flex-basis: 50%;
   }
-}
+} */
 
